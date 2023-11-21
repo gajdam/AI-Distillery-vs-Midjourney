@@ -85,6 +85,15 @@ At the outset, I would like to point out that I used the free version of Distile
 
      ![kolega132123_httpss mj run2Pn__RlwIt0_second_photo_as_backgro_5ca7fbc8-724c-4973-983d-a21644d5ece0_0](https://github.com/gajdam/AI-Distillery-vs-Midjourney/assets/116645010/2e0b527f-d3d1-45b8-8d23-d540e73a69c8)
 
+5. Some special effects with cities in background and weird styles
+   - Mid
+     - prompt: Atomic blast over Tokyo, salvador dali style
+       ![kolega132123_atomic_blast_over_Tokyo_salvador_dali_style_--v__cf227f95-4113-4df0-b933-fb092731c1fa_1](https://github.com/gajdam/AI-Distillery-vs-Midjourney/assets/116645010/eced4869-a795-4420-9eee-ef537bd125b8)
+
+     - prompt: Atomic blast over Tokyo, salvador dali style
+       ![kolega132123_atomic_blast_over_Tokyo_salvador_dali_style_--v__cf227f95-4113-4df0-b933-fb092731c1fa_3](https://github.com/gajdam/AI-Distillery-vs-Midjourney/assets/116645010/8c912473-e0e2-492d-901e-07e21f47c58d)
+
+
 
 
 
