@@ -63,11 +63,17 @@ At the outset, I would like to point out that I used the free version of Distile
      
     ![kolega132123_starwars_darth_vader_standing_in_new_york_time_s_7c386ee3-90d7-44e8-9f0d-b0dfdbc48632_2](https://github.com/gajdam/AI-Distillery-vs-Midjourney/assets/116645010/033d7d8c-71c5-4d33-92ee-ad74ad27ab58)
 
+    Unlike with beer, I had minor problems with a bottle of coca cola, so I had to re-prompt and clarify what I want
+
    - prompt: Starwars darth vader standing in new york time square with coca cola vintage bottle (glass bottle, minimalist red label) in hand
      ![kolega132123_starwars_darth_vader_standing_in_new_york_time_s_4017464f-9b28-4b06-8530-1cd42f847bcd_3](https://github.com/gajdam/AI-Distillery-vs-Midjourney/assets/116645010/fc9b6af1-0769-4209-a2a4-c6333450c0a7)
 
+### Conclusion
+Midjourney does a great job with urban backgrounds and matching characters and props, which admittely needs to be corrected, but it is satisfying. Nevertheless, if I were to print such an image for a t-shirt - I would choose the one created by Distillery, fits better.
   
 3. Details and background
+   Here I was already reaching only for Midjourney because I wanted to see how it          handles 'nested details'
+   
    - Midjourney
      - prompt: BMW drifting while delivering pizza in front of coloseum in Rome, dynamic
     
