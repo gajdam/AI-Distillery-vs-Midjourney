@@ -59,6 +59,35 @@ At the outset, I would like to point out that I used the free version of Distile
       
     ![kolega132123_starwars_darth_vader_holding_a_beer_new_york_tim_3d389819-bc83-409d-a527-e68c78fb1893_1](https://github.com/gajdam/AI-Distillery-vs-Midjourney/assets/116645010/99d486fb-fc6c-448a-9940-da44a26d8285)
 
+   - prompt: Starwars darth vader standing in new york time square with coca colla in glass bottle in hand
+     
+    ![kolega132123_starwars_darth_vader_standing_in_new_york_time_s_7c386ee3-90d7-44e8-9f0d-b0dfdbc48632_2](https://github.com/gajdam/AI-Distillery-vs-Midjourney/assets/116645010/033d7d8c-71c5-4d33-92ee-ad74ad27ab58)
+
+   - prompt: Starwars darth vader standing in new york time square with coca cola vintage bottle (glass bottle, minimalist red label) in hand
+     ![kolega132123_starwars_darth_vader_standing_in_new_york_time_s_4017464f-9b28-4b06-8530-1cd42f847bcd_3](https://github.com/gajdam/AI-Distillery-vs-Midjourney/assets/116645010/fc9b6af1-0769-4209-a2a4-c6333450c0a7)
+
+  
+3. Details and background
+   - Midjourney
+     - prompt: BMW drifting while delivering pizza in front of coloseum in Rome, dynamic
+    
+     ![kolega132123_BMW_drifting_while_delivering_pizza_in_front_of__13fa698b-9df8-4230-bab0-85ecd82ff7f1_1](https://github.com/gajdam/AI-Distillery-vs-Midjourney/assets/116645010/9e3727c7-053d-4e34-9b99-71eb1ff28079)
+
+     ![kolega132123_BMW_drifting_while_delivering_pizza_in_front_of__8f429497-b5f7-4afe-a7fc-c252c8ced0d4_3](https://github.com/gajdam/AI-Distillery-vs-Midjourney/assets/116645010/2fcfdfef-2006-42a9-a391-44e8b91d2f64)
+
+     - prompt: Gladiators doing pause in their fight in Colloseum in Roma to drink some coffe on the area, lions and fire in the background
+      
+    ![kolega132123_gladiators_doing_pause_in_their_fight_in_Collose_15211951-fa7e-44f4-b5bc-9b4a15fc7b1b_1](https://github.com/gajdam/AI-Distillery-vs-Midjourney/assets/116645010/74b75945-22e4-4da8-853d-13fd01fe3057)
+
+   - prompt: ![image](https://github.com/gajdam/AI-Distillery-vs-Midjourney/assets/116645010/bd045763-5212-4342-8a16-bf8391b3bcea)
+  
+     ![kolega132123_httpss mj runSKTL0ISee2E_httpss mj runrRCZcnNPE9_e6073e5b-d2f3-482e-b2b4-797eb09c2416_3](https://github.com/gajdam/AI-Distillery-vs-Midjourney/assets/116645010/de96bdd0-1d0f-4371-87e3-21848eab64b6)
+
+     ![kolega132123_httpss mj run2Pn__RlwIt0_second_photo_as_backgro_5ca7fbc8-724c-4973-983d-a21644d5ece0_0](https://github.com/gajdam/AI-Distillery-vs-Midjourney/assets/116645010/2e0b527f-d3d1-45b8-8d23-d540e73a69c8)
+
+
+
+
       
 
 
